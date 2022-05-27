@@ -1,11 +1,11 @@
 CompanyName
-Jabbertype
-Rhybox
-Ainyx
-Innotype
-Feedfire
-Riffwire
-Photobug
-Minyx
-Kwilith
-Trudoo
+Boyle-Bashirian
+Collier-Tremblay
+"Wunsch, Cartwright and Pagac"
+"Hermann, Jast and Emard"
+"Langosh, Boyle and Champlin"
+"Lowe, Baumbach and Pacocha"
+Cormier and Sons
+"Kirlin, Block and Mraz"
+Koelpin Inc
+"Beahan, Hahn and Padberg"
